@@ -1,0 +1,24 @@
+D:\Khaled\Learning  Programming\Homeworks\C# & Database Connectivity\LibraryDataAcessLayer\bin\Debug\LibraryDataAcessLayer.dll
+D:\Khaled\Learning  Programming\Homeworks\C# & Database Connectivity\LibraryDataAcessLayer\bin\Debug\LibraryDataAcessLayer.pdb
+D:\Khaled\Learning  Programming\Homeworks\C# & Database Connectivity\LibraryDataAcessLayer\obj\Debug\LibraryDataAccessLayer.csproj.AssemblyReference.cache
+D:\Khaled\Learning  Programming\Homeworks\C# & Database Connectivity\LibraryDataAcessLayer\obj\Debug\LibraryDataAccessLayer.csproj.CoreCompileInputs.cache
+D:\Khaled\Learning  Programming\Homeworks\C# & Database Connectivity\LibraryDataAcessLayer\obj\Debug\LibraryDataAcessLayer.dll
+D:\Khaled\Learning  Programming\Homeworks\C# & Database Connectivity\LibraryDataAcessLayer\obj\Debug\LibraryDataAcessLayer.pdb
+C:\Khaled\Learning Programming\C# & Database Connectivity\LibraryDataAcessLayer\bin\Debug\LibraryDataAcessLayer.dll
+C:\Khaled\Learning Programming\C# & Database Connectivity\LibraryDataAcessLayer\bin\Debug\LibraryDataAcessLayer.pdb
+C:\Khaled\Learning Programming\C# & Database Connectivity\LibraryDataAcessLayer\obj\Debug\LibraryDataAccessLayer.csproj.AssemblyReference.cache
+C:\Khaled\Learning Programming\C# & Database Connectivity\LibraryDataAcessLayer\obj\Debug\LibraryDataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Khaled\Learning Programming\C# & Database Connectivity\LibraryDataAcessLayer\obj\Debug\LibraryDataAcessLayer.dll
+C:\Khaled\Learning Programming\C# & Database Connectivity\LibraryDataAcessLayer\obj\Debug\LibraryDataAcessLayer.pdb
+D:\Learning Programming\C# & Database Connectivity\LibrarySystem(WindowsForms)\LibraryDataAcessLayer\bin\Debug\LibraryDataAcessLayer.dll
+D:\Learning Programming\C# & Database Connectivity\LibrarySystem(WindowsForms)\LibraryDataAcessLayer\bin\Debug\LibraryDataAcessLayer.pdb
+D:\Learning Programming\C# & Database Connectivity\LibrarySystem(WindowsForms)\LibraryDataAcessLayer\obj\Debug\LibraryDataAccessLayer.csproj.AssemblyReference.cache
+D:\Learning Programming\C# & Database Connectivity\LibrarySystem(WindowsForms)\LibraryDataAcessLayer\obj\Debug\LibraryDataAccessLayer.csproj.CoreCompileInputs.cache
+D:\Learning Programming\C# & Database Connectivity\LibrarySystem(WindowsForms)\LibraryDataAcessLayer\obj\Debug\LibraryDataAcessLayer.dll
+D:\Learning Programming\C# & Database Connectivity\LibrarySystem(WindowsForms)\LibraryDataAcessLayer\obj\Debug\LibraryDataAcessLayer.pdb
+D:\Learning Programming\Projects\Library Management System\Library_DataAcess\bin\Debug\LibraryDataAcessLayer.dll
+D:\Learning Programming\Projects\Library Management System\Library_DataAcess\bin\Debug\LibraryDataAcessLayer.pdb
+D:\Learning Programming\Projects\Library Management System\Library_DataAcess\obj\Debug\LibraryDataAccessLayer.csproj.AssemblyReference.cache
+D:\Learning Programming\Projects\Library Management System\Library_DataAcess\obj\Debug\LibraryDataAccessLayer.csproj.CoreCompileInputs.cache
+D:\Learning Programming\Projects\Library Management System\Library_DataAcess\obj\Debug\LibraryDataAcessLayer.dll
+D:\Learning Programming\Projects\Library Management System\Library_DataAcess\obj\Debug\LibraryDataAcessLayer.pdb

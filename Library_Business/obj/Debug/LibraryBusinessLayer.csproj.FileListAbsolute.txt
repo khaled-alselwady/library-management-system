@@ -1,0 +1,36 @@
+D:\Khaled\Learning  Programming\Homeworks\C# & Database Connectivity\LibraryBusinessLayer\bin\Debug\LibraryBusinessLayer.dll
+D:\Khaled\Learning  Programming\Homeworks\C# & Database Connectivity\LibraryBusinessLayer\bin\Debug\LibraryBusinessLayer.pdb
+D:\Khaled\Learning  Programming\Homeworks\C# & Database Connectivity\LibraryBusinessLayer\bin\Debug\LibraryDataAcessLayer.dll
+D:\Khaled\Learning  Programming\Homeworks\C# & Database Connectivity\LibraryBusinessLayer\bin\Debug\LibraryDataAcessLayer.pdb
+D:\Khaled\Learning  Programming\Homeworks\C# & Database Connectivity\LibraryBusinessLayer\obj\Debug\LibraryBusinessLayer.csproj.AssemblyReference.cache
+D:\Khaled\Learning  Programming\Homeworks\C# & Database Connectivity\LibraryBusinessLayer\obj\Debug\LibraryBusinessLayer.csproj.CoreCompileInputs.cache
+D:\Khaled\Learning  Programming\Homeworks\C# & Database Connectivity\LibraryBusinessLayer\obj\Debug\LibraryBusinessLayer.csproj.CopyComplete
+D:\Khaled\Learning  Programming\Homeworks\C# & Database Connectivity\LibraryBusinessLayer\obj\Debug\LibraryBusinessLayer.dll
+D:\Khaled\Learning  Programming\Homeworks\C# & Database Connectivity\LibraryBusinessLayer\obj\Debug\LibraryBusinessLayer.pdb
+C:\Khaled\Learning Programming\C# & Database Connectivity\LibraryBusinessLayer\bin\Debug\LibraryBusinessLayer.dll
+C:\Khaled\Learning Programming\C# & Database Connectivity\LibraryBusinessLayer\bin\Debug\LibraryBusinessLayer.pdb
+C:\Khaled\Learning Programming\C# & Database Connectivity\LibraryBusinessLayer\bin\Debug\LibraryDataAcessLayer.dll
+C:\Khaled\Learning Programming\C# & Database Connectivity\LibraryBusinessLayer\bin\Debug\LibraryDataAcessLayer.pdb
+C:\Khaled\Learning Programming\C# & Database Connectivity\LibraryBusinessLayer\obj\Debug\LibraryBusinessLayer.csproj.AssemblyReference.cache
+C:\Khaled\Learning Programming\C# & Database Connectivity\LibraryBusinessLayer\obj\Debug\LibraryBusinessLayer.csproj.CoreCompileInputs.cache
+C:\Khaled\Learning Programming\C# & Database Connectivity\LibraryBusinessLayer\obj\Debug\LibraryBusinessLayer.csproj.CopyComplete
+C:\Khaled\Learning Programming\C# & Database Connectivity\LibraryBusinessLayer\obj\Debug\LibraryBusinessLayer.dll
+C:\Khaled\Learning Programming\C# & Database Connectivity\LibraryBusinessLayer\obj\Debug\LibraryBusinessLayer.pdb
+D:\Learning Programming\C# & Database Connectivity\LibrarySystem(WindowsForms)\LibraryBusinessLayer\bin\Debug\LibraryBusinessLayer.dll
+D:\Learning Programming\C# & Database Connectivity\LibrarySystem(WindowsForms)\LibraryBusinessLayer\bin\Debug\LibraryBusinessLayer.pdb
+D:\Learning Programming\C# & Database Connectivity\LibrarySystem(WindowsForms)\LibraryBusinessLayer\bin\Debug\LibraryDataAcessLayer.dll
+D:\Learning Programming\C# & Database Connectivity\LibrarySystem(WindowsForms)\LibraryBusinessLayer\bin\Debug\LibraryDataAcessLayer.pdb
+D:\Learning Programming\C# & Database Connectivity\LibrarySystem(WindowsForms)\LibraryBusinessLayer\obj\Debug\LibraryBusinessLayer.csproj.AssemblyReference.cache
+D:\Learning Programming\C# & Database Connectivity\LibrarySystem(WindowsForms)\LibraryBusinessLayer\obj\Debug\LibraryBusinessLayer.csproj.CoreCompileInputs.cache
+D:\Learning Programming\C# & Database Connectivity\LibrarySystem(WindowsForms)\LibraryBusinessLayer\obj\Debug\LibraryBusinessLayer.csproj.CopyComplete
+D:\Learning Programming\C# & Database Connectivity\LibrarySystem(WindowsForms)\LibraryBusinessLayer\obj\Debug\LibraryBusinessLayer.dll
+D:\Learning Programming\C# & Database Connectivity\LibrarySystem(WindowsForms)\LibraryBusinessLayer\obj\Debug\LibraryBusinessLayer.pdb
+D:\Learning Programming\Projects\Library Management System\Library_Business\bin\Debug\LibraryBusinessLayer.dll
+D:\Learning Programming\Projects\Library Management System\Library_Business\bin\Debug\LibraryBusinessLayer.pdb
+D:\Learning Programming\Projects\Library Management System\Library_Business\bin\Debug\LibraryDataAcessLayer.dll
+D:\Learning Programming\Projects\Library Management System\Library_Business\bin\Debug\LibraryDataAcessLayer.pdb
+D:\Learning Programming\Projects\Library Management System\Library_Business\obj\Debug\LibraryBusinessLayer.csproj.AssemblyReference.cache
+D:\Learning Programming\Projects\Library Management System\Library_Business\obj\Debug\LibraryBusinessLayer.csproj.CoreCompileInputs.cache
+D:\Learning Programming\Projects\Library Management System\Library_Business\obj\Debug\LibraryBusinessLayer.csproj.CopyComplete
+D:\Learning Programming\Projects\Library Management System\Library_Business\obj\Debug\LibraryBusinessLayer.dll
+D:\Learning Programming\Projects\Library Management System\Library_Business\obj\Debug\LibraryBusinessLayer.pdb

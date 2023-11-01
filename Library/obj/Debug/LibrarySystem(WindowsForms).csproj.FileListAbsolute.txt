@@ -1,0 +1,15 @@
+D:\Khaled\Learning  Programming\Homeworks\C# & Database Connectivity\LibrarySystem(WindowsForms)\bin\Debug\LibrarySystem(WindowsForms).exe.config
+D:\Khaled\Learning  Programming\Homeworks\C# & Database Connectivity\LibrarySystem(WindowsForms)\bin\Debug\LibrarySystem(WindowsForms).exe
+D:\Khaled\Learning  Programming\Homeworks\C# & Database Connectivity\LibrarySystem(WindowsForms)\bin\Debug\LibrarySystem(WindowsForms).pdb
+D:\Khaled\Learning  Programming\Homeworks\C# & Database Connectivity\LibrarySystem(WindowsForms)\bin\Debug\FontAwesome.Sharp.dll
+D:\Khaled\Learning  Programming\Homeworks\C# & Database Connectivity\LibrarySystem(WindowsForms)\bin\Debug\Guna.UI2.dll
+D:\Khaled\Learning  Programming\Homeworks\C# & Database Connectivity\LibrarySystem(WindowsForms)\obj\Debug\LibrarySystem(WindowsForms).csproj.AssemblyReference.cache
+D:\Khaled\Learning  Programming\Homeworks\C# & Database Connectivity\LibrarySystem(WindowsForms)\obj\Debug\LibrarySystem(WindowsForms).csproj.SuggestedBindingRedirects.cache
+D:\Khaled\Learning  Programming\Homeworks\C# & Database Connectivity\LibrarySystem(WindowsForms)\obj\Debug\LibrarySystem_WindowsForms_.Properties.Resources.resources
+D:\Khaled\Learning  Programming\Homeworks\C# & Database Connectivity\LibrarySystem(WindowsForms)\obj\Debug\LibrarySystem(WindowsForms).csproj.GenerateResource.cache
+D:\Khaled\Learning  Programming\Homeworks\C# & Database Connectivity\LibrarySystem(WindowsForms)\obj\Debug\LibrarySystem(WindowsForms).csproj.CoreCompileInputs.cache
+D:\Khaled\Learning  Programming\Homeworks\C# & Database Connectivity\LibrarySystem(WindowsForms)\obj\Debug\LibrarySystem(WindowsForms).csproj.CopyComplete
+D:\Khaled\Learning  Programming\Homeworks\C# & Database Connectivity\LibrarySystem(WindowsForms)\obj\Debug\LibrarySystem(WindowsForms).exe
+D:\Khaled\Learning  Programming\Homeworks\C# & Database Connectivity\LibrarySystem(WindowsForms)\obj\Debug\LibrarySystem(WindowsForms).pdb
+D:\Khaled\Learning  Programming\Homeworks\C# & Database Connectivity\LibrarySystem(WindowsForms)\obj\Debug\LibrarySystem_WindowsForms_.frmEmployeeMainMenu.resources
+D:\Khaled\Learning  Programming\Homeworks\C# & Database Connectivity\LibrarySystem(WindowsForms)\obj\Debug\LibrarySystem_WindowsForms_.EmployeeMainMenuForms.frmBooks.resources

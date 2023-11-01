@@ -1,0 +1,6 @@
+D:\Learning Programming\Projects\Library Management System\Library_DataAcess\bin\Debug\LibraryDataAcessLayer.dll
+D:\Learning Programming\Projects\Library Management System\Library_DataAcess\bin\Debug\LibraryDataAcessLayer.pdb
+D:\Learning Programming\Projects\Library Management System\Library_DataAcess\obj\Debug\Library_DataAccessLayer.csproj.AssemblyReference.cache
+D:\Learning Programming\Projects\Library Management System\Library_DataAcess\obj\Debug\Library_DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\Learning Programming\Projects\Library Management System\Library_DataAcess\obj\Debug\LibraryDataAcessLayer.dll
+D:\Learning Programming\Projects\Library Management System\Library_DataAcess\obj\Debug\LibraryDataAcessLayer.pdb

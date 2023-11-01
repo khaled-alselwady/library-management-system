@@ -1,0 +1,398 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{71A0C9B9-9E7A-41C6-97A6-F9C0B757AD15}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>LibrarySystem_WindowsForms_</RootNamespace>
+    <AssemblyName>LibrarySystem%28WindowsForms%29</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="FontAwesome.Sharp, Version=6.3.0.0, Culture=neutral, PublicKeyToken=d16d1e4e568ec10f, processorArchitecture=MSIL">
+      <HintPath>packages\FontAwesome.Sharp.6.3.0\lib\net48\FontAwesome.Sharp.dll</HintPath>
+    </Reference>
+    <Reference Include="Guna.UI2, Version=2.0.4.4, Culture=neutral, PublicKeyToken=8b9d14aa5142e261, processorArchitecture=MSIL">
+      <HintPath>packages\Guna.UI2.WinForms.2.0.4.4\lib\net48\Guna.UI2.dll</HintPath>
+    </Reference>
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xaml" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WindowsBase" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CirculationForms\frmAddEditIssue.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CirculationForms\frmAddEditIssue.Designer.cs">
+      <DependentUpon>frmAddEditIssue.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CirculationForms\frmAddEditReservation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CirculationForms\frmAddEditReservation.Designer.cs">
+      <DependentUpon>frmAddEditReservation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CirculationForms\frmFines.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CirculationForms\frmFines.Designer.cs">
+      <DependentUpon>frmFines.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CirculationForms\frmIssueBook.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CirculationForms\frmIssueBook.Designer.cs">
+      <DependentUpon>frmIssueBook.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CirculationForms\frmReservations.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CirculationForms\frmReservations.Designer.cs">
+      <DependentUpon>frmReservations.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CirculationForms\frmShowBookShortInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CirculationForms\frmShowBookShortInfo.Designer.cs">
+      <DependentUpon>frmShowBookShortInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CirculationForms\frmShowBorrowingRecordDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CirculationForms\frmShowBorrowingRecordDetails.Designer.cs">
+      <DependentUpon>frmShowBorrowingRecordDetails.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CirculationForms\frmShowBorrowingRecordShortInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CirculationForms\frmShowBorrowingRecordShortInfo.Designer.cs">
+      <DependentUpon>frmShowBorrowingRecordShortInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CirculationForms\frmShowFineDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CirculationForms\frmShowFineDetails.Designer.cs">
+      <DependentUpon>frmShowFineDetails.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CirculationForms\frmShowMemberShortInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CirculationForms\frmShowMemberShortInfo.Designer.cs">
+      <DependentUpon>frmShowMemberShortInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EmployeeMainMenuForms\frmAddEditBook.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EmployeeMainMenuForms\frmAddEditBook.Designer.cs">
+      <DependentUpon>frmAddEditBook.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EmployeeMainMenuForms\frmAddEditEmployee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EmployeeMainMenuForms\frmAddEditEmployee.Designer.cs">
+      <DependentUpon>frmAddEditEmployee.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EmployeeMainMenuForms\frmAddEditMember.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EmployeeMainMenuForms\frmAddEditMember.Designer.cs">
+      <DependentUpon>frmAddEditMember.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EmployeeMainMenuForms\frmAuthors.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EmployeeMainMenuForms\frmAuthors.Designer.cs">
+      <DependentUpon>frmAuthors.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EmployeeMainMenuForms\frmBooks.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EmployeeMainMenuForms\frmBooks.Designer.cs">
+      <DependentUpon>frmBooks.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EmployeeMainMenuForms\frmEmployees.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EmployeeMainMenuForms\frmEmployees.Designer.cs">
+      <DependentUpon>frmEmployees.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EmployeeMainMenuForms\frmGenres.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EmployeeMainMenuForms\frmGenres.Designer.cs">
+      <DependentUpon>frmGenres.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EmployeeMainMenuForms\frmMembers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EmployeeMainMenuForms\frmMembers.Designer.cs">
+      <DependentUpon>frmMembers.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EmployeeMainMenuForms\frmShowAuthorBooks.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EmployeeMainMenuForms\frmShowAuthorBooks.Designer.cs">
+      <DependentUpon>frmShowAuthorBooks.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EmployeeMainMenuForms\frmShowCopies.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EmployeeMainMenuForms\frmShowCopies.Designer.cs">
+      <DependentUpon>frmShowCopies.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EmployeeMainMenuForms\frmShowGenreBooks.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EmployeeMainMenuForms\frmShowGenreBooks.Designer.cs">
+      <DependentUpon>frmShowGenreBooks.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EmployeeMainMenuForms\frmEmployeeMainMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EmployeeMainMenuForms\frmEmployeeMainMenu.Designer.cs">
+      <DependentUpon>frmEmployeeMainMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LoginScreenForms\frmAccessDeniedMessage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LoginScreenForms\frmAccessDeniedMessage.Designer.cs">
+      <DependentUpon>frmAccessDeniedMessage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LoginScreenForms\frmLoginScreen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LoginScreenForms\frmLoginScreen.Designer.cs">
+      <DependentUpon>frmLoginScreen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MemberMainMenuForms\frmMemberBook.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MemberMainMenuForms\frmMemberBook.Designer.cs">
+      <DependentUpon>frmMemberBook.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MemberMainMenuForms\frmMemberBookBorrowingRecords.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MemberMainMenuForms\frmMemberBookBorrowingRecords.Designer.cs">
+      <DependentUpon>frmMemberBookBorrowingRecords.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MemberMainMenuForms\frmMemberFines.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MemberMainMenuForms\frmMemberFines.Designer.cs">
+      <DependentUpon>frmMemberFines.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MemberMainMenuForms\frmMemberMainMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MemberMainMenuForms\frmMemberMainMenu.Designer.cs">
+      <DependentUpon>frmMemberMainMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MemberMainMenuForms\frmMemberProfile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MemberMainMenuForms\frmMemberProfile.Designer.cs">
+      <DependentUpon>frmMemberProfile.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MemberMainMenuForms\frmMemberReservation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MemberMainMenuForms\frmMemberReservation.Designer.cs">
+      <DependentUpon>frmMemberReservation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="CirculationForms\frmAddEditIssue.resx">
+      <DependentUpon>frmAddEditIssue.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CirculationForms\frmAddEditReservation.resx">
+      <DependentUpon>frmAddEditReservation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CirculationForms\frmFines.resx">
+      <DependentUpon>frmFines.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CirculationForms\frmIssueBook.resx">
+      <DependentUpon>frmIssueBook.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CirculationForms\frmReservations.resx">
+      <DependentUpon>frmReservations.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CirculationForms\frmShowBookShortInfo.resx">
+      <DependentUpon>frmShowBookShortInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CirculationForms\frmShowBorrowingRecordDetails.resx">
+      <DependentUpon>frmShowBorrowingRecordDetails.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CirculationForms\frmShowBorrowingRecordShortInfo.resx">
+      <DependentUpon>frmShowBorrowingRecordShortInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CirculationForms\frmShowFineDetails.resx">
+      <DependentUpon>frmShowFineDetails.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CirculationForms\frmShowMemberShortInfo.resx">
+      <DependentUpon>frmShowMemberShortInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EmployeeMainMenuForms\frmAddEditBook.resx">
+      <DependentUpon>frmAddEditBook.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EmployeeMainMenuForms\frmAddEditEmployee.resx">
+      <DependentUpon>frmAddEditEmployee.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EmployeeMainMenuForms\frmAddEditMember.resx">
+      <DependentUpon>frmAddEditMember.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EmployeeMainMenuForms\frmAuthors.resx">
+      <DependentUpon>frmAuthors.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EmployeeMainMenuForms\frmBooks.resx">
+      <DependentUpon>frmBooks.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EmployeeMainMenuForms\frmEmployees.resx">
+      <DependentUpon>frmEmployees.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EmployeeMainMenuForms\frmGenres.resx">
+      <DependentUpon>frmGenres.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EmployeeMainMenuForms\frmMembers.resx">
+      <DependentUpon>frmMembers.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EmployeeMainMenuForms\frmShowAuthorBooks.resx">
+      <DependentUpon>frmShowAuthorBooks.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EmployeeMainMenuForms\frmShowCopies.resx">
+      <DependentUpon>frmShowCopies.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EmployeeMainMenuForms\frmShowGenreBooks.resx">
+      <DependentUpon>frmShowGenreBooks.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EmployeeMainMenuForms\frmEmployeeMainMenu.resx">
+      <DependentUpon>frmEmployeeMainMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LoginScreenForms\frmAccessDeniedMessage.resx">
+      <DependentUpon>frmAccessDeniedMessage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LoginScreenForms\frmLoginScreen.resx">
+      <DependentUpon>frmLoginScreen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MemberMainMenuForms\frmMemberBook.resx">
+      <DependentUpon>frmMemberBook.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MemberMainMenuForms\frmMemberBookBorrowingRecords.resx">
+      <DependentUpon>frmMemberBookBorrowingRecords.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MemberMainMenuForms\frmMemberFines.resx">
+      <DependentUpon>frmMemberFines.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MemberMainMenuForms\frmMemberMainMenu.resx">
+      <DependentUpon>frmMemberMainMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MemberMainMenuForms\frmMemberProfile.resx">
+      <DependentUpon>frmMemberProfile.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MemberMainMenuForms\frmMemberReservation.resx">
+      <DependentUpon>frmMemberReservation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Logo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Logo2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Person.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cancel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LogoBlack2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LogoBlack3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\books.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\author.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Members.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Employees.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\book logo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Library_Business\Library_BusinessLayer.csproj">
+      <Project>{34a15d39-c458-4f01-b439-b90bbbd76123}</Project>
+      <Name>Library_BusinessLayer</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
